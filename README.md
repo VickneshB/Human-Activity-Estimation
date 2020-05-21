@@ -21,6 +21,8 @@ COMPILATION INSTRUCTIONS:
 
 Open new Terminal and type the following commands
 
+```
+
 $ cd Human-Skeleton-Detection/
 
 ~/Human-Skeleton-Detection$ pip3 install -r requirements.txt
@@ -31,3 +33,4 @@ $ cd Human-Skeleton-Detection/
 
 ~/Human-Skeleton-Detection$ python3 Main.py HOD
 
+```
